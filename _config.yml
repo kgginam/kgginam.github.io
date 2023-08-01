@@ -287,7 +287,7 @@ defaults:
     layout: single
     author_profile: true
     read_time: true
-    comments: # true
+    comments: true # true
     share: true
     related: true
 
@@ -297,11 +297,3 @@ defaults:
   values:
     layout: single
     author_profile: true
-
-comments:
-  provider    : "disqus"                                # comment 처리 사이트 명칭 기재
-  # false (default), "disqus", "discourse", "facebook"
-  # "staticman", "staticman_v2", "utterances", "custom"
-  disqus:
-    shortname : "kgginam-github-io"                    # disqus의 shortname 기재
-    # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
