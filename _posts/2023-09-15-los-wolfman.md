@@ -8,7 +8,7 @@ tags:
 toc: true
 ---
 
-# ORC
+# WOLFMAN
 ## 문제
 ![img](/assets/images/los/wolfman1.png)
 
