@@ -8,7 +8,7 @@ tags:
 toc: true
 ---
 
-# WOLFMAN
+# DARKELF
 ## 문제
 ![img](/assets/images/los/darkelf1.png)
 
