@@ -341,7 +341,7 @@ void dump_http_header(const u_char *pkt_data,  const struct pcap_pkthdr *header)
 }
 ```
 
-# ethernet.h
+## ethernet.h
 ```cpp
 #pragma once
 #include <sys/types.h>
