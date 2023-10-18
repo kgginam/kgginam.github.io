@@ -7,6 +7,8 @@ tags:
   - C++
   - nestjs
   - mysql
+toc: true
+toc_sticky: false
 ---
 
 # 진행중인 프로젝트 설명
